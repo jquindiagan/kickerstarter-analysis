@@ -9,10 +9,10 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater Outcomes Based on Launch Date](https://www.github.com/jquindiagan/kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![Play Outcomes Based on Goals](https://www.github.com/jquindiagan/kickstarter-analysis/resources/Outcomes_vs_Goals.png)
+![Play Outcomes Based on Goals](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
