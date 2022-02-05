@@ -23,20 +23,20 @@ A difficulty I encountered was with the Outcomes Based on Goals graph. My initia
 
 ## Results
 
-### Conclusions Based on Launch Dates
+#### Conclusions Based on Launch Dates
 We can conclude the following based on the theater campaigns' launch dates:
 1. Theater Kickstarter campaigns that launch between May and July are more likely to be successful.
 2. Theater Kickstarter campaigns that launch between November and December are more likely to fail.
 
-### Conclusions Based on Goal
+#### Conclusions Based on Goal
 Based on fundraising goals, we can conclude that Kickstarter campaigns in the plays subcategory that have a low goal amount are more likely to be successful than play campaigns with a high goal amount.
 
-### Limitations
+#### Limitations
 Some limitations of this data set are listed below:
 1. This data set does not indicate if campaigns were advertised on outside platforms such as social media. This data could potentially shed light on whether more visibility on other platforms has an effect on a campaign's success.
 2. To incentivise donations, campaigns typically offer rewards based on the amount donated. This data set does not include reward information.
 
-### Graph Suggestions
+#### Graph Suggestions
 Other graphs that can be created:
 1. A bar graph that compares outcomes of a theater campaign based on whether or not they have a spotlight.
 2. A bar graph comparing theater campaigns between countries to illustrate whether there is a significant difference in outcomes.
